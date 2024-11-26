@@ -1,0 +1,5 @@
+annotations/*
+coco_output/*
+.ipynb_checkpoints/*
+
+.DS_Store
